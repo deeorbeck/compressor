@@ -1,5 +1,4 @@
-# api_id = 11468489
-# api_hash = 'a6741d6acd4709f9c866b3d8bfc50e4f'
+
 from telethon import Button
 
 sizes = {
@@ -12,8 +11,8 @@ sizes = {
 
 }
 
-api_id = 10008026
-api_hash = "902f2165d6076ea281fc889175052d3f"
+api_id = *
+api_hash = "*"
 keyboard = [
     [
         Button.inline("144p",data="144p"),
